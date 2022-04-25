@@ -41,8 +41,7 @@
 - Make figures for publication : OMERO.Figure: Intervenant Sophie Abelanet
 
 ## Jour 3 - matin : analyser
-- ImageJ OMERO plugin
-- ImageJ macros
+- ImageJ OMERO plugin and macros : Intervenant Frederic Brau
 - ImageJ scripts
 - Other tools : Cellprofiler, Ilastik, ...
 
