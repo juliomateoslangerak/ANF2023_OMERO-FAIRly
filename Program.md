@@ -4,8 +4,7 @@
 ## Jour 1 - matin : introduction
 - Presentation de la formation
 - Introduction des participants : table ronde
-- La science ouverte : Intervenant Jason Swedlow
-- Principes FAIR : Intervenant ?
+- La science ouverte et principes FAIR : Intervenant Anne Laurent
 - Introduction a OMERO : histoire du projet
 
 ## Jour 1 - apres-midi : démarrer avec OMERO
@@ -39,7 +38,7 @@
 - Groupes collaboratifs et droits d'access
 - Gestion de groupes
 - Practices de gestion de groupes en plateforme
-- Make figures for publication : OMERO.Figure
+- Make figures for publication : OMERO.Figure: Intervenant Sophie Abelanet
 
 ## Jour 3 - matin : analyser
 - ImageJ OMERO plugin
