@@ -1,13 +1,14 @@
 # ANF 2023 OMERO-FAIRly
 # Programme
 
-## Jour 1 - matin : introduction
+## Jour 1 - matin : Ouverture et introduction
+- Accueil des participant.e.s
 - Presentation de la formation
-- Introduction des participants : table ronde
+- Demander aux participants de se présenter 
 - La science ouverte et principes FAIR : Intervenant Anne Laurent
-- Introduction a OMERO : histoire du projet
+- Introduction à OMERO : histoire du projet
 
-## Jour 1 - apres-midi : démarrer avec OMERO
+## Jour 1 - apres-midi : Bien débuter avec OMERO
 - OMERO import images
 - Details on import : 
   - MDE
@@ -22,7 +23,7 @@
 - Visualize images : OMERO.iViewer
 - Create ROIs
 
-## Jour 2 - matin : meta-donnees
+## Jour 2 - matin : Gestion des métadonnées
 - OMERO infrastructure
   - Deployment : Intervenant Guillaume Gay
 - Metadata (panneaux droit)
@@ -34,13 +35,12 @@
 - Search
 - Browse measurements : OMERO.parade
 
-## Jour 2 - apres-midi : collaborer
-- Groupes collaboratifs et droits d'access
-- Gestion de groupes
-- Practices de gestion de groupes en plateforme
-- Make figures for publication : OMERO.Figure: Intervenant Sophie Abelanet
+## Jour 2 - apres-midi : Gestion des droits d'accès & Concevoir rapidement une figure
+- Politique de gestion des droits d'accès
+- Gestion des groupes
+- Concevoir des figures pour une publication : OMERO.Figure: Intervenant Sophie Abelanet
 
-## Jour 3 - matin : analyser
+## Jour 3 - matin : Traitement et analyse d'images
 - ImageJ OMERO plugin and macros : Intervenant Frederic Brau
 - ImageJ scripts
 - Other tools : Cellprofiler, Ilastik, ...
