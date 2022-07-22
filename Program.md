@@ -10,11 +10,11 @@
 - Introduction à OMERO : histoire du projet
 
 ## Jour 1 - apres-midi : Bien débuter avec OMERO
-- Présentation globale d'OMERO 
-    	L'architecture client/serveur d'OMERO 	
-      Formats supportés & Big images
-      Petit Tips mensuel	
-      Accès à la base de données pour la formation
+- Présentation globale d'OMERO
+   -    L'architecture client/serveur d'OMERO 	
+   -    Formats supportés & Big images
+   -    Petit Tips mensuel	
+   -    Accès à la base de données pour la formation
 - OMERO import images
 - Details on import : 
   - MDE
