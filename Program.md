@@ -11,10 +11,10 @@
 
 ## Jour 1 - apres-midi : Bien débuter avec OMERO
 - Présentation globale d'OMERO
-   -    L'architecture client/serveur d'OMERO 	
-   -    Formats supportés & Big images
-   -    Petit Tips mensuel	
-   -    Accès à la base de données pour la formation
+  - L'architecture client/serveur d'OMERO 	
+  - Formats supportés & Big images
+  - Petit Tips mensuel	
+  - Accès à la base de données pour la formation
 - OMERO import images
 - Details on import : 
   - MDE
@@ -47,7 +47,7 @@
 - Concevoir des figures pour une publication : OMERO.Figure: Intervenant Sophie Abelanet
 
 ## Jour 3 - matin : Traitement et analyse d'images
-- Les scripts disponible sur la base OMERO ( merge channels, fusionner les images, faire du vignettage de ROI ... )
+- Les scripts disponible sur la base OMERO (merge channels, fusionner les images, faire du vignettage de ROI ...)
 - ImageJ OMERO plugin and macros : Intervenant Frederic Brau
 - ImageJ scripts
 - Other tools : Cellprofiler, Ilastik, ...
